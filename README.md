@@ -1,4 +1,4 @@
-# TP Final de C# Nivel 2 de los cursos de Maxi Programa.
+# TP Final de C# Nivel 2.
 
 • C#                                                                                                                                                                                                                                                 
 • SQL SERVER                                                                                                                                                                                                                                         
