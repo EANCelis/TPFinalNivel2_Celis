@@ -3,7 +3,7 @@
 
 Introducción
 
-Presento una aplicación de escritorio diseñada para la gestión de artículos en un catálogo comercial. Esta solución es genérica, lo que la hace aplicable a cualquier tipo de comercio.
+Presento una aplicación de escritorio realizada para el Trabajo Final de C# Nivel 2 de Maxi Programa, el cual esta diseñado para la gestión de artículos en un catálogo comercial. Esta solución es genérica, lo que la hace aplicable a cualquier tipo de comercio.
 
 Funcionalidades Implementadas
 
