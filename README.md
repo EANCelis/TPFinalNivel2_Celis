@@ -1,8 +1,10 @@
 # TP Final de C# Nivel 2.
 Gestión de Artículos para Catálogo de Comercio
+
 Introducción
 
-Presento una aplicación de escritorio diseñada para la gestión de artículos en un catálogo comercial. Esta solución es genérica, lo que la hace aplicable a cualquier tipo de comercio. La información gestionada en la aplicación puede ser consumida por diversos servicios, permitiendo su visualización en sitios web, e-commerce, aplicaciones móviles, revistas, entre otros.
+Presento una aplicación de escritorio diseñada para la gestión de artículos en un catálogo comercial. Esta solución es genérica, lo que la hace aplicable a cualquier tipo de comercio.
+
 Funcionalidades Implementadas
 
 La aplicación incluye las siguientes funcionalidades:
