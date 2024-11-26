@@ -47,3 +47,5 @@ Consideraciones Técnicas
     Lenguaje de programación: C#
     Framework de desarrollo de escritorio: .NET Framework
     Base de datos: SQL Server
+
+![App-Negocio](https://github.com/user-attachments/assets/33d45b72-30f4-4374-b962-ec87a829be27)
